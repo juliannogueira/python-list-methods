@@ -33,6 +33,8 @@ print(cyber_traits)
 
 sec_co = ['IBM', 'Raytheon', 'Mimecast', 'Cisco']
 new_co= ['Checkp Point Software', 'Palo Alto Networks', 'Symantec', 'Trend Micro']
+sec_co.extend(new_co)
+print(sec_co)
 
 #index(element) searches an element in the list and returns its index
 #6. There were some headline grabbing cyber attacks in 2017. In the cyber attacks list below, find the index position of 'WannaCry' and print your result.
