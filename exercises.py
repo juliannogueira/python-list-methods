@@ -46,6 +46,7 @@ print(cyber_attacks.index('WannaCry'))
 #7. In the dns list below, find the number of ocurrence for 98.105 and print your results.
 
 dns_list = [98.105, 98.1115, 99.105, 98.111, 98.105, 98.106, 98.501]
+print(dns_list.count(98.105))
 
 #reverse() reverses the elements of a given list
 #8. Decipher Mr. Robot's quote using the reverse method and print his message.
