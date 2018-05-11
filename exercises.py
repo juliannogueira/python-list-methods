@@ -59,6 +59,8 @@ print(mr_robot)
 #9 Sort the following list of SSH Ids in ascending order
 
 ssh_list = [1331903959.94555, 1331901011.84795, 1331903492.37203, 1331901032.03789, 1331903508.24007, 1331903476.8]
+ssh_list.sort()
+print(ssh_list)
 
 #print the list in descending order
 
