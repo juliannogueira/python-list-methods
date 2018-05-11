@@ -63,6 +63,8 @@ ssh_list.sort()
 print(ssh_list)
 
 #print the list in descending order
+ssh_list.sort(reverse = True)
+print(ssh_list)
 
 #max() returns the largest element in the list
 #10 Find the largest integer in the network list below:
