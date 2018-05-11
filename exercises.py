@@ -52,6 +52,8 @@ print(dns_list.count(98.105))
 #8. Decipher Mr. Robot's quote using the reverse method and print his message.
 
 mr_robot = ['bigger', 'something', 'represents', 'it', 'mistake', 'a', 'just', 'never', 'is', 'bug', 'a']
+mr_robot.reverse()
+print(mr_robot)
 
 #sort () sorts elements of a given list in a specific order (ascending or descending)
 #9 Sort the following list of SSH Ids in ascending order
