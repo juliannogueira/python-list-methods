@@ -25,6 +25,8 @@ print(ip_addy)
 #4. The cyber traits list below is a list of traits that fit a career in cyber security. Everything is accurate, except for 'lazy'. Please remove 'lazy' from the list and print your results.
 
 cyber_traits = ['detailed oriented', 'methodically', 'lazy', 'persistent', 'curious', 'instinctive']
+cyber_traits.pop(2)
+print(cyber_traits)
 
 #extend(list) adds elements from another list 
 #5. Combine the new co list with the sec co list and print your results.
