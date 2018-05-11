@@ -82,6 +82,7 @@ print(min(network_list))
 #12 Find the sum of the following occurence list below:
 
 occurences = [3, 2.5, 9, 7, 21, 6, 8]
+print(sum(occurences))
 
 
 
