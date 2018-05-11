@@ -70,6 +70,7 @@ print(ssh_list)
 #10 Find the largest integer in the network list below:
 
 network_list = [39104, 38694, 38702, 38787, 39860]
+print(max(network_list))
 
 #min() returns the smallest element in the list
 #11 Find the smallest integet in the network list below:
