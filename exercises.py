@@ -40,6 +40,7 @@ print(sec_co)
 #6. There were some headline grabbing cyber attacks in 2017. In the cyber attacks list below, find the index position of 'WannaCry' and print your result.
 
 cyber_attacks = ['Equifax Data Breach', 'Uber Data Breach', 'Yahoo!','WannaCry', 'Deep Root Analytics']
+print(cyber_attacks.index('WannaCry'))
 
 #count(element) counts how many times an element is in a list
 #7. In the dns list below, find the number of ocurrence for 98.105 and print your results.
