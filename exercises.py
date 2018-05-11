@@ -76,6 +76,7 @@ print(max(network_list))
 #11 Find the smallest integet in the network list below:
 
 network_list = [39104, 38694, 38702, 38787, 39860]
+print(min(network_list))
 
 #sum() calculates the sum of the all the elements in the list
 #12 Find the sum of the following occurence list below:
